@@ -1,0 +1,1 @@
+{"jobID":"7e3a5099-3b39-4e91-6b8f-32c505447634","spec":{"type":"policy","cause":{"Message":"1.4.2 does not work for us","User":""},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true"},"remove":{}}}},"result":null}
